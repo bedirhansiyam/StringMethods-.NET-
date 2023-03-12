@@ -1,0 +1,15 @@
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\bin\Debug\net7.0\StringMethods.exe
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\bin\Debug\net7.0\StringMethods.deps.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\bin\Debug\net7.0\StringMethods.runtimeconfig.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\bin\Debug\net7.0\StringMethods.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\bin\Debug\net7.0\StringMethods.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\obj\Debug\net7.0\StringMethods.csproj.AssemblyReference.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\obj\Debug\net7.0\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\obj\Debug\net7.0\StringMethods.AssemblyInfoInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\obj\Debug\net7.0\StringMethods.AssemblyInfo.cs
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\obj\Debug\net7.0\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\obj\Debug\net7.0\StringMethods.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\obj\Debug\net7.0\refint\StringMethods.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\obj\Debug\net7.0\StringMethods.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\obj\Debug\net7.0\StringMethods.genruntimeconfig.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\StringMethods\obj\Debug\net7.0\ref\StringMethods.dll
